@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "server": "json-server src/data/cities.json --port 9000"
+    "preview": "vite preview"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.3",
